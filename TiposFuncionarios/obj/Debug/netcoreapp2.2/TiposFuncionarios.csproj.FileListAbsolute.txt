@@ -1,0 +1,24 @@
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.deps.json
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.runtimeconfig.json
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.runtimeconfig.dev.json
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.dll
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.pdb
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.csprojAssemblyReference.cache
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.csproj.CoreCompileInputs.cache
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.AssemblyInfoInputs.cache
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.AssemblyInfo.cs
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.dll
+D:\TrabalhoValeriaSemestral\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.pdb
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.deps.json
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.runtimeconfig.json
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.runtimeconfig.dev.json
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.dll
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\netcoreapp2.2\TiposFuncionarios.pdb
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.csproj.AssemblyReference.cache
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.AssemblyInfoInputs.cache
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.AssemblyInfo.cs
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.dll
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.pdb
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\netcoreapp2.2\TiposFuncionarios.genruntimeconfig.cache

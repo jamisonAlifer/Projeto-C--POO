@@ -1,0 +1,16 @@
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\net5.0\TiposFuncionarios.exe
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\net5.0\TiposFuncionarios.deps.json
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\net5.0\TiposFuncionarios.runtimeconfig.json
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\net5.0\TiposFuncionarios.runtimeconfig.dev.json
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\net5.0\TiposFuncionarios.dll
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\net5.0\ref\TiposFuncionarios.dll
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\bin\Debug\net5.0\TiposFuncionarios.pdb
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\TiposFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\TiposFuncionarios.AssemblyInfoInputs.cache
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\TiposFuncionarios.AssemblyInfo.cs
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\TiposFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\TiposFuncionarios.dll
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\ref\TiposFuncionarios.dll
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\TiposFuncionarios.pdb
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\TiposFuncionarios.genruntimeconfig.cache
+C:\Users\jamis\Documents\faculdade\valeria\trabalho 3\TiposFuncionarios\TiposFuncionarios\obj\Debug\net5.0\TiposFuncionarios.csproj.AssemblyReference.cache
